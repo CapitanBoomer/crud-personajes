@@ -1,0 +1,7 @@
+{
+  "name": "starwars Crud",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
